@@ -1,1 +1,1 @@
-# javascriprt_push
+# javascript_push
